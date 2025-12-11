@@ -1,0 +1,430 @@
+{
+  "main": {
+    "id": "54e39686c1035cb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7001adb822bcc01f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e175325564bf154f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Inheritance/6. Constructor Inheritance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Constructor Inheritance"
+            }
+          },
+          {
+            "id": "4b14e0f196f0bd2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Interfaces & Polymorphism/1. Interfaces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Interfaces"
+            }
+          },
+          {
+            "id": "1e6cdd941f840d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Interfaces & Polymorphism/2. Polymorphism I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Polymorphism I"
+            }
+          },
+          {
+            "id": "ae10fe4fca41d2bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Interfaces & Polymorphism/2. Polymorphism I.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Polymorphism I"
+            }
+          },
+          {
+            "id": "600b479448259ad3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09_File System/1. Writing Text Files.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Writing Text Files"
+            }
+          },
+          {
+            "id": "b2640d625be3e2d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "09_File System/2. Managing Folders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Managing Folders"
+            }
+          },
+          {
+            "id": "9bcb2284907d49f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08_Dependency Injection (DI)/1. Decoupling & Testability.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Decoupling & Testability"
+            }
+          },
+          {
+            "id": "bbd706bd877c1a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Interfaces & Polymorphism/3. Polymorphism II.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Polymorphism II"
+            }
+          },
+          {
+            "id": "c5ed7b116ddc5de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Interfaces & Polymorphism/4. Multiple Inheritance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Multiple Inheritance"
+            }
+          },
+          {
+            "id": "9ce426407f98c0f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Collections/7. Dictionaries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Dictionaries"
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "fcbf733a99fc46ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c694291431708d1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Inheritance/1. Method overriding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Method overriding"
+            }
+          },
+          {
+            "id": "206c3a63e0fe8a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Inheritance/2. Method Hiding.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Method Hiding"
+            }
+          },
+          {
+            "id": "8d5a443970bdda3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Inheritance/3. Sealed Methods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Sealed Methods"
+            }
+          },
+          {
+            "id": "978e5a5664bf3484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Inheritance/4. Base keyword.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Base keyword"
+            }
+          },
+          {
+            "id": "e0b12db42d7bbb26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Inheritance/5. Abstract classes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Abstract classes"
+            }
+          },
+          {
+            "id": "9928f2a440c1043e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Collections/1. List<>.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. List<>"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5076b7c4e0bcabf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d24f1769170733a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd28f7778cfac628",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4b0eba41163ba9c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4fbfdaacf73a36f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "913af50f288e8ec7",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c5992f421d5093",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7af4227e55d0ba8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06_Inheritance/6. Constructor Inheritance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 6. Constructor Inheritance"
+            }
+          },
+          {
+            "id": "cc7a41989d6646cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06_Inheritance/6. Constructor Inheritance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 6. Constructor Inheritance"
+            }
+          },
+          {
+            "id": "9a9ece85b804f81e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f9abd3cfd343e0c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "df94298bfccce0ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06_Inheritance/6. Constructor Inheritance.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 6. Constructor Inheritance"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9ce426407f98c0f6",
+  "lastOpenFiles": [
+    "01_Basics/1. Random.md",
+    "04_Collections/7. Dictionaries.md",
+    "04_Collections/8. Dictionary with Complex Objects.md",
+    "04_Collections/4. List<> with Complex Obj.md",
+    "07_Interfaces & Polymorphism/5. Abstract Class vs. Interface.md",
+    "07_Interfaces & Polymorphism/4. Multiple Inheritance.md",
+    "07_Interfaces & Polymorphism/3. Polymorphism II.md",
+    "08_Dependency Injection (DI)/2. Types of Dependency Injection.md",
+    "08_Dependency Injection (DI)/1. Decoupling & Testability.md",
+    "07_Interfaces & Polymorphism/2. Polymorphism I.md",
+    "09_File System/2. Managing Folders.md",
+    "08_Dependency Injection (DI)",
+    "09_File System/1. Writing Text Files.md",
+    "09_File System",
+    "07_Interfaces & Polymorphism/1. Interfaces.md",
+    "06_Inheritance/6. Constructor Inheritance.md",
+    "07_Interfaces & Polymorphism",
+    "06_Inheritance/1. Method overriding.md",
+    "04_Collections/1. List<>.md",
+    "06_Inheritance/5. Abstract classes.md",
+    "06_Inheritance/4. Base keyword.md",
+    "06_Inheritance/3. Sealed Methods.md",
+    "06_Inheritance/2. Method Hiding.md"
+  ]
+}
